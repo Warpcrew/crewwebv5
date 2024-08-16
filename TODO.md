@@ -2,7 +2,7 @@
 - Bruk https://mermaid.live (Rendres native i Github)
 
 
-``mermaid
+```mermaid
 sequenceDiagram
     Alice->>+John: Hello John, how are you?
     Alice->>+John: John, can you hear me?
